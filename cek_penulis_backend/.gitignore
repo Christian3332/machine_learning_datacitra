@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+dataset/train/*/
+dataset/validation/*/
+dataset/test/*/
+dataset/ringkasan_split.json
+results/gradcam/*.jpg
+results/crop/*.jpg

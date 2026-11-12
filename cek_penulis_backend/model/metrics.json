@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.9513,
+  "precision": 0.9652,
+  "recall": 0.9496,
+  "f1_score": 0.9516,
+  "jumlah_data_test": 411,
+  "jumlah_kelas": 50,
+  "ambang": 0.5,
+  "tanggal_evaluasi": "2026-11-12 06:51",
+  "persen_dikenali": 0.9684,
+  "akurasi_saat_dikenali": 0.9673
+}

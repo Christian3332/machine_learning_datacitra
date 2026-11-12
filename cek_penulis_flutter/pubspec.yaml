@@ -1,0 +1,25 @@
+name: cek_penulis
+description: Aplikasi identifikasi penulis tulisan tangan dengan EfficientNetV2B0.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  http: ^1.2.2
+  image_picker: ^1.1.2
+  camera: ^0.11.0
+  shared_preferences: ^2.3.2
+  path_provider: ^2.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
